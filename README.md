@@ -1,6 +1,6 @@
 Hello, World! I'm Moreka Mozart Ongegu
 **Full-Stack Developer | React & React Native | AI/ML Enthusiast**
-I’m interested in **Web Development, Artificial Intelligence, and Machine Learning** — building intelligent systems that **learn, predict, automate, and solve real-world problems.**
+I’m interested in **Web Development, Artificial Intelligence, and Machine Learning** : building intelligent systems that **learn, predict, automate, and solve real-world problems.**
 ###  What I'm Building & Learning
 *  Building **full-stack web and mobile applications**
 *  Working with **React, React Native, TypeScript & JavaScript**
