@@ -5,7 +5,7 @@ I’m interested in **Web Development, Artificial Intelligence, and Machine Lear
 *  Building **full-stack web and mobile applications**
 *  Working with **React, React Native, TypeScript & JavaScript**
 *  Exploring **Supabase, MySQL, APIs & database-driven systems**
-*  Learning **AI & Machine Learning** — data, algorithms, model training, and intelligent decision-making
+*  Learning **AI & Machine Learning** : data, algorithms, model training, and intelligent decision-making
 *  Interested in combining **Physics, Computing, IoT, and AI** to solve practical problems
 *  Constantly turning complex problems into clean, working systems
 ###  Open to Collaborating On
