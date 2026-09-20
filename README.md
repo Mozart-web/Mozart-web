@@ -17,6 +17,6 @@ I’m interested in **Web Development, Artificial Intelligence, and Machine Lear
 ###  Connect With Me
 **Email:** mozartmoreka864@gmail.com
 ###  Fun Fact
-I enjoy turning **confusing bugs into clean solutions** preferably before the coffee runs out. ☕😄
+I enjoy turning **confusing bugs into clean solutions** preferably before the coffee runs out. 
 ---
 > **Build. Break. Learn. Automate. Repeat.**
