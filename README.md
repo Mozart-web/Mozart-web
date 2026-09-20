@@ -1,10 +1,39 @@
-👀 I’m interested in Web Development,AI, and ML... building systems that learn, predict, and automate real-world problems
-🌱 I’m currently learning React, JavaScript, HTML/CSS, MySQL, and fundamentals of AI & ML (data, algorithms, and model training)
-💞️ I’m looking to collaborate on web apps, AI/ML beginner projects, and open-source development
-📫 How to reach me: O718402229
-😄 Pronouns: MR HIM
-⚡ Fun fact: I enjoy turning confusing bugs into clean solutions 😄
-<!---
-Mozart-web/Mozart-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey, I'm Moreka Mozart Ongegu
+
+**Full-Stack Developer | React & React Native | AI/ML Enthusiast**
+
+I’m interested in **Web Development, Artificial Intelligence, and Machine Learning** — building intelligent systems that **learn, predict, automate, and solve real-world problems.**
+
+### 🚀 What I'm Building & Learning
+
+* 💻 Building **full-stack web and mobile applications**
+* ⚛️ Working with **React, React Native, TypeScript & JavaScript**
+* 🗄️ Exploring **Supabase, MySQL, APIs & database-driven systems**
+* 🤖 Learning **AI & Machine Learning** — data, algorithms, model training, and intelligent decision-making
+* 📡 Interested in combining **Physics, Computing, IoT, and AI** to solve practical problems
+* 🧠 Constantly turning complex problems into clean, working systems
+
+### 🤝 Open to Collaborating On
+
+* 🌐 Web & mobile applications
+* 🤖 AI/ML projects
+* 📊 Data-driven systems
+* 🔌 IoT & intelligent automation
+* 🛠️ Open-source projects
+
+### 📫 Connect With Me
+
+**Email:** mozartmoreka864@gmail.com
+**GitHub:** [@Mozart-web](https://github.com/Mozart-web)
+
+### 😎 Pronouns
+
+**MR HIM**
+
+### ⚡ Fun Fact
+
+I enjoy turning **confusing bugs into clean solutions** — preferably before the coffee runs out. ☕😄
+
+---
+
+> **Build. Break. Learn. Automate. Repeat.**
